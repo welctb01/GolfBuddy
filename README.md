@@ -1,3 +1,5 @@
+Download the app from Google Play: https://play.google.com/store/apps/details?id=com.welch.golfbuddy
+
 Before using this application you should complete the following steps:
 
 1)  Change the name of the package (OPTIONAL)
