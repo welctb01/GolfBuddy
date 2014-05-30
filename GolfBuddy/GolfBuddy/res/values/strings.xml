@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Golf Buddy </string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="pref_key_latitude">latitude</string>
+    <string name="pref_key_longitude">longitude</string>
+    <string name="pref_key_zoom">zoommmm</string>
+    <string name="pref_key_bearing">bearing</string>
+    <string name="pref_key_tilt">tilt</string>
+    
+    <string name="gps_title">Enable GPS</string>
+    <string name="gps_message">Please enable GPS</string>
+    <string name="gps_enable_button">Enable GPS</string>
+    <string name="gps_ignore_button">Enable</string>
+    <string name="gps_title">Ignore</string>
+    <string name="gps_toast">GPS was not enabled</string>
+
+</resources>
